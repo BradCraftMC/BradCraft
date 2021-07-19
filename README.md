@@ -15,7 +15,9 @@ Sounds changed:
 
 
 # Suggestions
-You can leave suggestions in the issues menu on this GitHub page. These suggestions can be:
+You can leave suggestions in the issues menu on this GitHub page. **PLEASE USE THE LABELS TO MARK WHAT YOUR SUGGESTION IS ABOUT!** 
+
+These suggestions can be:
 - Item textures
 - Sounds
 - Splash texts
