@@ -7,8 +7,8 @@ The official Minecraft Java Edition resource pack dedicated to "Bradley Richards
 Click on the releases tab on the right, or click [this link.](https://github.com/5tayer/Bradley-Richards-Pack/releases)
 
 # Credits
-- Tater: Potato textures and helped with Optifine features.
-- Pr1vat3 Ryan: Pigstep music disc --> Stream outro song
+- Tater: Potato textures and helped with OptiFine features.
+- Pr1vat3 Ryan: Provided access to the stream outro song.
 
 # Features
 Mobs changed:
@@ -27,7 +27,8 @@ Sounds changed:
 You can leave suggestions in the issues menu on this GitHub page. **PLEASE USE THE LABELS TO MARK WHAT YOUR SUGGESTION IS ABOUT!** 
 
 These suggestions can be:
-- Item textures
+- Item Textures
 - Sounds
-- Splash texts
+- Splash Texts
 - Mobs
+- OptiFine Custom Entity Model (CEM) Ideas
