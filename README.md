@@ -4,6 +4,10 @@ The official Minecraft Java Edition resource pack dedicated to "Bradley Richards
 # How to download
 Click on the releases tab on the right, or click [this link.](https://github.com/5tayer/Bradley-Richards-Pack/releases)
 
+# Credits
+Tater - Potato textures and helped with Optifine features.
+Pr1vat3 Ryan - Pigstep music disc --> Stream outro song
+
 # Features
 Mobs changed:
 - Zombie
