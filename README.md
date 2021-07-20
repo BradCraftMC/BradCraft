@@ -8,6 +8,7 @@ Click on the releases tab on the right, or click [this link.](https://github.com
 
 # Credits
 - Tater: Potato textures and helped with OptiFine features.
+- Brad: Recorded sounds for mobs, provided pictures.
 - Pr1vat3 Ryan: Provided access to the stream outro song.
 
 # Features
