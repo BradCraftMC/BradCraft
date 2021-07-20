@@ -7,9 +7,19 @@ The official Minecraft Java Edition resource pack dedicated to "Bradley Richards
 Click on the releases tab on the right, or click [this link.](https://github.com/5tayer/Bradley-Richards-Pack/releases)
 
 # Credits
-- Tater: Potato textures and helped with OptiFine features.
-- Brad: Recorded sounds for mobs and provided pictures for textures.
-- Pr1vat3 Ryan: Provided access to the stream outro song.
+5tayer
+- Main creator of the pack.
+
+Tater
+- Helped with OptiFine features.
+- Potato textures.
+
+Brad
+- Recorded sounds.
+- Provided images for textures.
+
+Pr1vat3 Ryan
+- Provided access to 2 songs, including the stream outro song.
 
 # Features
 Mobs changed:
