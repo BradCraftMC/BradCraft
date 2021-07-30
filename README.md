@@ -1,6 +1,3 @@
-# Notice
-**Brad Pack development is on hold until further notice.**
-
 # Bradley Richards Pack
 The official Minecraft Java Edition resource pack dedicated to "Bradley Richards - How To Get Better." Features references, special things and other stuff to spice up Minecraft, Brad style.
 
