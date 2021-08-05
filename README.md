@@ -11,8 +11,10 @@ Click on the releases tab on the right, or click [this link.](https://github.com
 - Main creator of the pack.
 
 Tater
-- Helped with OptiFine features.
+- Helped with major features of BradCraft.
+- Fall Dude and Impostor OptiFine models.
 - Potato textures.
+- Taco textures.
 
 Brad
 - Recorded sounds.
