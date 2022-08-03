@@ -1,5 +1,5 @@
 # BradCraft
-The official Minecraft Java Edition resource pack dedicated to "Bradley Richards - How To Get Better." Features references, special things and other stuff to spice up Minecraft, Brad style.
+The official Minecraft Java Edition resource pack dedicated to the YouTuber "bradley richards" Features references, special things and other stuff to spice up Minecraft, Brad style.
 
 **For versions 1.2 and up, OptiFine is required**
 
@@ -12,7 +12,7 @@ Click on the releases tab on the right, or click [this link.](https://github.com
 
 Tater
 - Helped with major features of BradCraft.
-- Fall Dude and Impostor OptiFine models.
+- Fall Dude, and Impostor OptiFine models.
 - Potato textures.
 - Taco textures.
 
