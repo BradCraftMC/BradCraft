@@ -1,10 +1,10 @@
 # BradCraft
-The official Minecraft Java Edition resource pack dedicated to the YouTuber "bradley richards" Features references, special things and other stuff to spice up Minecraft, Brad style.
+The official Minecraft Java Edition resource pack dedicated to the YouTuber "[bradley richards](https://www.youtube.com/bradleyrichards)". Features references, special things and other stuff to spice up Minecraft, Brad style.
 
 **For versions 1.2 and up, OptiFine is required**
 
 # How to download
-Click on the releases tab on the right, or click [this link.](https://github.com/5tayer/Bradley-Richards-Pack/releases)
+Click on the releases tab on the right, or click [this link.](https://github.com/5tayer/BradCraft/releases)
 
 # Credits
 5tayer
