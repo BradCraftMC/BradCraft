@@ -1,0 +1,193 @@
+### BradCraft Changelog
+
+Version 1.2.1
+Released October 13, 2022
+# OptiFine Additions
+- Gerald's Sword! (rename the diamond sword to "Gerald's Sword")
+- Technoblade (name a pig "Technoblade")
+
+# Changes
+- Gamer Berries are now CIT items! (can only be seen when renaming sweet berries to "Gamer Berries")
+- The Drip Suit are now CITs! (can only be seen when renaming "Diamond" to "Drip")
+- - Each Drip Suit item also now has an item texture!
+- The vanilla Ice Bath model has been updated to reflect the OptiFine model!
+- - Ice Bath also now has an item texture!
+- The Bender Wither Skeleton has been updated to Agent Owl!
+
+# Fixes
+- Fixed the names of Bucket of Salmon, Cod, Tropical Fish, and Axolotl
+
+Version 1.2
+Released October 9, 2022
+# New Sounds
+- Custom music now plays on the main menu!
+- Pufferfish now screams when you approach it!
+- Goats now have a chance to do a Brad scream! (1.17+ only)
+- New eating sounds!
+- New regular damage sounds!
+- New drinking sound!
+- New EXP level up sound!
+- New freezing damage sounds! (1.17+ only)
+- New Witch sounds!
+- You now hear the Report Body sound when you kill an Impostor!
+- Ambient Fall Guys sounds play for the Fall Dude!
+
+# OptiFine Additions
+- Impostor remodel!
+- Wither Skeleton is now Bender!
+- Fall Dude remodel!
+- Green Fall Dude remodel!
+- Yellow Fall Dude remodel!
+- Boats are now ice baths!
+- Batteries in the ocean! (Replacing squids)
+
+# Other Additions
+- Rotten flesh is now Fall Dude Egg!
+- New bucket textures!
+- New potion textures!
+- Diamond armor item textures are now Brad's Minecraft skin outfit!
+- You can collect battery acid! (Replacing ink sacs)
+
+# Changes
+- Taco re-textures!
+- Renamed the pack to BradCraft!
+- New pack icon!
+
+# Splash Text
+### Added:
+- Brad is epic!
+- Subscribe to Bradley Richards.
+- Suscribe to Bradley Richards.
+- Subscribe to Bradley Richards
+- Suscribe to Bradley Richards
+- Subscribe or no quan
+- Suscribe or no quan
+- Gerald is epic.
+- Sussy
+- Confirmed at 3am.
+- Confirmed at 3am
+- No clickbate
+- Not clickbate
+- 5tayer is not epic
+- 5tayer is epic
+- Ryan's music is drippy
+- Fall Guys is epic. -Brad
+- Fall Guys is not epic. -Tater
+- Brad has never lost a game of Fall Guys
+- Brad has never died in Minecraft
+- Brad has never died in Minecraft..except for once by Bender
+- I'm about to get sussy.
+- BradCraft is the best resource pack
+- Tater is always first.
+- Tater is always first
+- You can be second to first, but Tater is always first.
+- Make sure your extended family is suscribed
+- MAKE SURE YOUR EXTENDED FAMILY IS SUSCRIBED
+- Subscribe to Bradley Richards Vlogs.
+- Subscribe to Bradley Richards Vlogs
+- Suscribe to Bradley Richards Vlogs.
+- Suscribe to Bradley Richards Vlogs
+- Racism is cringe, unless it's against the British.
+- British "people" are cringe
+- Frick the British
+- Have you ever seen a British person have normal teeth?
+- Brad hates different types of skin
+- Agent Owl is too good at Minecraft PvP
+- Gogy is epic
+- Social security number reveal at 20 billion suscribers
+- Credit to Tater for OptiFine models
+- Tater SMP is the best SMP
+- Niko is epic
+- Lans_Aiden is epic
+- DaPiano_Man is epic
+- Tater is epic
+- Bender is epic
+- Agent Owl is epic
+- Bradley Richards is epic
+- Envy Drop is epic, even if he rickrolls
+- Jess is epic
+- Live. Laugh. Love.
+- Live Laugh Love.
+- Live Laugh Love
+- "Live, Laugh, Love." -Jess
+- Bored Face is epic
+- BarberVillan is epic
+- yeeterparker 69 is epic
+- Ryan is epic
+- Draconiac is epic
+- PPS
+- Poop P#@*& S#%
+- Down with the no no words.
+- Down with the no-no words.
+- Down with the nono words.
+- Down with no no words.
+- Down with no-no words.
+- Down with nono words.
+- The N phrase is different from the N word
+- Hypickle can't stop the power of PPS
+- You can't stop PPS
+- PPS will rise
+- PPS is the best movement ever
+- I'M JUST A MATTRESS
+- I CAN NEVER GET OFF OF MY MATTRESS
+- WHY ARE YOU SO MATTRESS
+- THAT'S WHAT THE MATTRESS
+- THAT'S WHAT THE POINT OF THE MATTRESS
+- Homeless mode
+- Brad is homeless!
+- Bradley is homeless!
+- Brad's homeless!
+- The Wild West is the best Roblox game
+- Family Guy Funny Moments
+- I LOVE WILL DA THICC BOI!!!!
+- I LOVE FLOPPA!!!!!!!!
+- https://discord.gg/4BpH7eAQfr
+- discord.gg/4BpH7eAQfr
+
+
+Version 1.1
+Released April 30, 2021
+# Additions
+- Diamond armor has been changed to "Drip Suit" which is the clothes on Brad's skin
+- Diamond helmet (Drip Hat) now has an item texture of Brad's iconic hat
+- Creeper hissing sound is now Brad saying "I'm about to get sussy"
+- Live Laugh Love painting added
+(extremely pixelated due to Minecraft paintings being low quality)
+- New splash text added
+(see bottom of changelog for the full list of splashes added)
+- New drowning damage and fire damage sounds
+- Ender Dragon now sings Big Chungus when dying
+(credit to Tater for giving me an EPIC sound file for this)
+- 2 new cave sounds have been added
+
+# Changes
+- Survive The Fall music disc (stal) was changed to Friday Night Funkin - Week 1 Bopeebo
+- Raining Tacos music disc (strad) was changed to Friday Night Funkin - Menu (Gettin' Freaky)
+
+# Removals
+- Removed the HD/smooth/32x font
+
+# Splash Text
+
+Added:
+- I'm about to get sussy.
+- Bradley Richards Pack is the best resource pack
+- PewDiePie is epic.
+- PewDiePie is swag.
+- Tater is always first, regardless of anything.
+- Tater is always first.
+- Tater is always first
+
+
+Version 1.0
+Released April 21, 2021
+# Additions
+- Creeper is now Impostor
+- Zombie has changed to Fall Dude
+- Drowned has changed to Green Fall Dude
+- Husk has changed to Yellow Fall Dude
+- Most of the Wolf sounds have been changed
+- Burp sound has changed to Brad coughing*
+- Damage sound has changed to Brad screaming*
+- 2 paintings have been changed to various things
+- Added new splash text
