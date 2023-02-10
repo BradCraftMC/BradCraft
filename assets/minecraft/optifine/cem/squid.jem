@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"texture": "batery or some thing.png",
+	"texture": "batery_or_some_thing.png",
 	"textureSize": [128, 128],
 	"models": [
 		{
@@ -31,12 +31,12 @@
 				}
 			],
 			"animations": [
-			    {
-				    "body2.rx": "body.rx",
+				{
+					"body2.rx": "body.rx",
 					"body2.rz": "body.rz",
 					"body2.ry": "body.ry"
 				}
-			]	
+			]
 		},
 		{
 			"part": "tentacle1",

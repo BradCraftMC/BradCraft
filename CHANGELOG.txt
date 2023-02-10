@@ -1,4 +1,19 @@
 ### BradCraft Changelog
+Version 1.3 ALPHA 3
+Released ???
+# ADDITIONS
+- New damage sound
+
+Version 1.2.2
+Released February 10, 2023
+# ADDITIONS
+
+# CHANGES
+- All sounds have been converted to Mono
+
+# FIXES
+- Battery textures now show up (#2)
+
 Version 1.3 ALPHA 2
 Released February 2, 2023
 # ADDITIONS
