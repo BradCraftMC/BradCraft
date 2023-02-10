@@ -1,4 +1,18 @@
 ### BradCraft Changelog
+Version 1.2.2
+Released February 10, 2023
+# ADDITIONS
+- Added Impostor hurt sounds with various SFX from Among Us
+
+# CHANGES
+- In-game sounds have been converted from stereo to mono
+(you may find a noticeable difference in this version, mono sounds should improve the experience/gameplay)
+- The Impostor's death sound is now an Among Us sound effect of an impostor killing a crewmate
+- A few sounds have had their volume either lowered or increased
+- The drinking sound has been shortened
+
+# FIXES
+- Battery textures now correctly show up in-game (#2)
 
 Version 1.2.1
 Released October 13, 2022
