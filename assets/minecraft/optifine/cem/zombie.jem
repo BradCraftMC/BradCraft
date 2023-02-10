@@ -1,5 +1,6 @@
 {
-	"texture": "falldude",
+	"credit": "Made with Blockbench",
+	"texture": "falldude.png",
 	"textureSize": [64, 64],
 	"models": [
 		{
@@ -83,8 +84,8 @@
 				}
 			],
 			"animations": [
-			    {
-				    "ArmL.rx": "left_arm.rx",
+				{
+					"ArmL.rx": "left_arm.rx",
 					"ArmL.rz": "left_arm.rz",
 					"ArmL.ry": "left_arm.ry",
 					"ArmR.rx": "right_arm.rx",
@@ -95,14 +96,14 @@
 					"LegL.rx": "left_leg.rx",
 					"LegR.rx": "right_leg.rx"
 				}
-			]	
+			]
 		},
 		{
 			"part": "left_arm",
 			"id": "left_arm",
 			"invertAxis": "xy",
-			"translate": [5, -22, 0],
-			"mirrorTexture": "u"
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
 		},
 		{
 			"part": "right_arm",
@@ -114,8 +115,8 @@
 			"part": "left_leg",
 			"id": "left_leg",
 			"invertAxis": "xy",
-			"translate": [1.9, -12, 0],
-			"mirrorTexture": "u"
+			"mirrorTexture": "u",
+			"translate": [1.9, -12, 0]
 		},
 		{
 			"part": "right_leg",

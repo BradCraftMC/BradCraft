@@ -1,4 +1,42 @@
 ### BradCraft Changelog
+Version 1.3 ALPHA 2
+Released February 2, 2023
+# ADDITIONS
+- The Minecraft main menu logo has been swapped to a custom BradCraft logo
+		- The resource pack icon has also been updated to reflect this
+- New Jug textures for buckets of Cod, Salmon, Tadpole, and Tropical Fish have been added
+
+# CHANGES
+- Resource pack icon has been updated
+	- This change is to reflect the pack's new main menu logo
+- The main menu panorama has been changed to a bird's eye view of the BradCraft SMP
+	- This will also be updated for each major version release
+- Resource pack description has been updated
+
+Version 1.3 ALPHA 1
+Released December 4, 2022
+# ADDITIONS
+- The enderman is now King Ben (real height)
+	- Custom model (OptiFine required)
+	- Custom sounds (done by Benicio)
+- You can now rename a diamond sword to "Excalibur" (OptiFine required)
+- You can now rename an eye of ender to "Eye of Zander" (OptiFine required)
+
+## OTHER
+- Green Fall Dude sounds are now fully implemented
+- Leather has been changed to appear as a part of the taco cart
+
+# CHANGES
+## Music Discs
+after far too long, the music discs have finally gotten a refresh.
+- Married Life has been moved to disc "5"
+- The awkward gap at the beginning of Time_laps (aka mellohi) has been removed
+- Raining Tacos is back, under stal
+- far, strad, and otherside are back to their normal discs
+	- (will be custom by release)
+
+# FIXES
+- Bucket of Powder Snow has been renamed to Jug
 
 Version 1.2.1
 Released October 13, 2022
