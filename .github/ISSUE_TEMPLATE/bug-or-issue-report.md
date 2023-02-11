@@ -30,8 +30,8 @@ assignees: ''
 ### Your expected behavior
 <!-- If applicable, write a clear and concise description of what you expected to happen. -->
 
-**Screenshots**
+### Screenshots
 <!-- If applicable, add screenshots to help explain your problem. -->
 
-**Additional context**
+### Additional context
 <!-- If possible, add any other context about the problem here. -->
