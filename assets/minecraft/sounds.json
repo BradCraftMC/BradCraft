@@ -10746,7 +10746,7 @@
   },
   "entity.creeper.primed": {
     "sounds": [
-      "mob/creeper/fuse"
+      "mob/creeper/primed"
     ],
     "subtitle": "subtitles.entity.creeper.primed"
   },
