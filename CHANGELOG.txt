@@ -1,8 +1,15 @@
 ### BradCraft Changelog
+Version 1.3 ALPHA 4
+Released N/A (unknown date)
+# NEW
+### v1.3 Custom GUI
+- Custom GUI support for Mod Menu
+- Custom GUI support for Plasmo Voice
+
 Version 1.3 ALPHA 3
 Released February 11, 2023
 # NEW
-## v1.3 Custom GUI
+### v1.3 Custom GUI
 You will likely notice a significant change immediately when you switch this version on in-game. v1.3 Alpha 3 introduces the beginning stages of an upcoming feature for the full release of v1.3, a custom GUI look and feel. As this is in Alpha, many aspects have either not been updated, or look unfinished. Tweaks will be made by the full release. Also, please let me know about any possible criticism or feedback you have on the GUI. If some parts are considered to be too "non-vanilla", I can always make that into a separate add-on.
 
 As for everything already here:
