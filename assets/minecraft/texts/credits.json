@@ -3,29 +3,30 @@
         "section": "BradCraft Credits",
         "titles": [
             {
-                "title": "Pack Creator",
+                "title": "BradCraft Creator",
                 "names": [
                     "5tayer"
                 ]
             },
             {
-                "title": "Development Team",
+                "title": "BradCraft Co-Creator",
+                "names": [
+                    "Bradley Richards"
+                ]
+            },
+            {
+                "title": "Developers",
                 "names": [
                     "Tater"
                 ]
             },
             {
-                "title": "OptiFine Models",
-                "names": [
-                    "Tater",
-                    "5tayer"
-                ]
-            },
-            {
-                "title": "Sound Providers",
+                "title": "Contributors",
                 "names": [
                     "Bradley Richards",
-                    "Pr1v4t3 Ryan"
+                    "Agent Owl/Bender",
+                    "PR1V4T3 (Ryan)",
+                    "Benicio/Bnact Kingdom"
                 ]
             },
             {
