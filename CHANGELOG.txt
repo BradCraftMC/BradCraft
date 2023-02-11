@@ -12,6 +12,7 @@ As for everything already here:
 ## Other Additions
 - The Impostor has a new "primed" sound
 	- Note: Sometimes the normal fuse sound will play, this is just how Minecraft works
+- A new damage sound has been added, possible by using the ability of adding new sounds in resource packs
 
 # CHANGED
 - All in-game sounds have been converted to mono (similar to v1.2.2)
