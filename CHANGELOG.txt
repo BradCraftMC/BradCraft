@@ -1,8 +1,68 @@
 ### BradCraft Changelog
 Version 1.3 ALPHA 3
-Released ???
-# ADDITIONS
-- New damage sound
+Released February 11, 2023
+# NEW
+## v1.3 Custom GUI
+You will likely notice a significant change immediately when you switch this version on in-game. v1.3 Alpha 3 introduces the beginning stages of an upcoming feature for the full release of v1.3, a custom GUI look and feel. As this is in Alpha, many aspects have either not been updated, or look unfinished. Tweaks will be made by the full release. Also, please let me know about any possible criticism or feedback you have on the GUI. If some parts are considered to be too "non-vanilla", I can always make that into a separate add-on.
+
+As for everything already here:
+- The in-game GUI now uses a dark theme
+	- Dark mode assets were created by the (epic) team at Vanilla Tweaks: https://vanillatweaks.net/
+- Parts of the GUI turn blue when hovered over
+## Other Additions
+- The Impostor has a new "primed" sound
+	- Note: Sometimes the normal fuse sound will play, this is just how Minecraft works
+
+# CHANGED
+- All in-game sounds have been converted to mono (similar to v1.2.2)
+- Updated the end credits to match the current-era of the pack
+
+# REMOVED
+- Removed the original custom sound for the fuse
+
+# SPLASH TEXT
+### Added
+- Join the BradCraft SMP
+- PR1V4T3 is epic
+- Subscribe to bradley richards extras
+- Subscribe to bradley richards clips
+- Subscribe to bradley richards reacts
+- Subscribe to bradley richards stream archive
+- Subscribe to BradCraft
+- Subscribe to BradCraft's channel
+- 2,977
+- We don't speak about 9/15/2022
+- We don't speak about September 15, 2022
+- We don't speak about Sep 15, 2022
+- 9/15
+
+### Changed
+- Niko is epic --> Niko/Alex is epic
+- Subscribe to Bradley Richards --> Subscribe to bradley richards
+
+### Removed
+- Suscribe to Bradley Richards.
+- Suscribe to Bradley Richards
+- Suscribe or no quan
+- No clickbate
+- 5tayer is not epic
+- Tater SMP is the best SMP
+- Down with no no words.
+- Down with the no no words.
+- The N phrase is different from the N word
+- Hypickle can't stop the power of PPS
+- Homeless mode
+- Brad is homeless!
+- Bradley is homeless!
+- Brad's homeless!
+- DaPiano_Man is epic
+- Bender is epic
+- BarberVillan is epic
+- Social security number reveal at 20 billion suscribers
+- Suscribe to Bradley Richards Vlogs.
+- Suscribe to Bradley Richards Vlogs
+- Subscribe to Bradley Richards.
+- Subscribe to Bradley Richards Vlogs.
 
 Version 1.2.2
 Released February 10, 2023
