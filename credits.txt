@@ -1,3 +1,6 @@
 BRADCRAFT RESOURCE PACK CREDITS
 - Vanilla Tweaks (https://vanillatweaks.net/)
-Some assets seen in the pack are from Vanilla Tweaks
+Some assets were used in BradCraft
+
+- Default Dark Mode (https://modrinth.com/resourcepack/default-dark-mode)
+Some assets were used in BradCraft
