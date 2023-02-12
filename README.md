@@ -1,6 +1,23 @@
-BradCraft is the official Minecraft: Java Edition resource pack for the YouTuber and streamer "[bradley richards](https://www.youtube.com/bradleyrichards)". This pack features several references and many special things to spice up Minecraft, Brad style.
+![README header](https://user-images.githubusercontent.com/74135618/218292159-4237b831-4d5b-4482-b894-b000f439c927.png)
+<div align="center">
+  <h2>The official Minecraft resource pack of Bradley Richards</h2>
+  <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/B81X2Tkp?color=red&label=MC VERSIONS&logo=modrinth&logoColor=white">
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/5tayer/bradcraft?color=green&display_name=tag&label=LATEST%20STABLE%20VERSION">
+  <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/5tayer/bradcraft?color=yellow&include_prereleases&label=LATEST%20PRE-RELEASE&sort=date">
+  <img alt="GitHub" src="https://img.shields.io/github/license/5tayer/bradcraft?color=purple&label=LICENSE">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/5tayer/bradcraft?label=ISSUES&logo=github">
+  <img alt="Discord" src="https://img.shields.io/discord/1023275466934722650?label=DISCORD&logo=discord&logoColor=white">
+  <h3>BradCraft depends on the following things below to be able to use all features...</h3>
+  <img alt="cem" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cem_vector.svg">
+  <img alt="cit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cit_vector.svg">
+  
+  [OptiFine](https://optifine.net/downloads) is the easiest method, and I recommend it for most.
+  
+  </div>
+  
+  ---
 
-**For versions 1.2 and up, [OptiFine](https://optifine.net/downloads) is highly recommended**
+BradCraft is the official Minecraft: Java Edition resource pack based around the YouTuber and streamer "[bradley richards](https://www.youtube.com/@bradleyrichards)". This resource pack features several references, gags, humor, and more with the main goal to spice up Minecraft, Brad style.
 
 # Download guide
 Click on the "Versions" tab on the top to find all of our releases. Alternatively, you can find our latest releases under the "Featured versions" section in the sidebar.
