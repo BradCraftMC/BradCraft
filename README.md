@@ -13,7 +13,7 @@
   
   [OptiFine](https://optifine.net/downloads) is the easiest method, and I recommend it for most.
   
-  <h4>⚠️ This README is currently going under a revamping process. Excuse the messy look, it could be a week or two ⚠️</h4>
+  <h4>⚠️ This README is currently going under a revamping process. Excuse the messy look, it could be a few weeks ⚠️</h4>
   
   </div>
   
