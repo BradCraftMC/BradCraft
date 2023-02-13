@@ -3,15 +3,19 @@ Version 1.3 ALPHA 4
 Released N/A (unknown date)
 # NEW
 ### v1.3 Custom GUI
+Note: Partial means the static (non-hovered) buttons aren't in a dark theme.
 - Custom GUI support for Mod Menu
-- Custom GUI support for Plasmo Voice
-- Custom GUI support for Entity Texture Features (ETF)
-- Custom GUI support for MidnightControls
-- Custom GUI support for Auth Me
+- Custom GUI support for Plasmo Voice (partial)
+- Custom GUI support for Entity Texture Features (ETF) (partial)
+- Custom GUI support for MidnightControls (partial)
+- Custom GUI support for Auth Me (partial)
 - Custom GUI support for Capes
 - Custom GUI support for Cloth Config
 - Custom GUI support for Fabric
-- Custom GUI support for Inventory Profiles Next
+- Custom GUI support for Inventory Profiles Next (partial)
+
+### Other
+- Added several Vanilla Tweaks features to enhance the gameplay (example: 3D doors/trapdoors/chains)
 
 # CHANGED
 - Updated pack.mcmeta
@@ -26,7 +30,7 @@ As for everything already here:
 - The in-game GUI now uses a dark theme
 	- Dark mode assets were created by the (epic) team at Vanilla Tweaks: https://vanillatweaks.net/
 - Parts of the GUI turn blue when hovered over
-## Other Additions
+### Other Additions
 - The Impostor has a new "primed" sound
 	- Note: Sometimes the normal fuse sound will play, this is just how Minecraft works
 - A new damage sound has been added, possible by using the ability of adding new sounds in resource packs
