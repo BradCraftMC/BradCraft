@@ -4,7 +4,7 @@
   <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/B81X2Tkp?color=red&label=MC VERSIONS&logo=modrinth&logoColor=white">
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/5tayer/bradcraft?color=green&display_name=tag&label=LATEST%20STABLE%20VERSION">
   <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/5tayer/bradcraft?color=yellow&include_prereleases&label=LATEST%20PRE-RELEASE&sort=date">
-  <img alt="GitHub" src="https://img.shields.io/github/license/5tayer/bradcraft?color=purple&label=LICENSE">
+  <img alt="GitHub" src="https://img.shields.io/github/license/bradcraftmc/bradcraft?color=purple&label=LICENSE">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/5tayer/bradcraft?label=ISSUES&logo=github">
   <img alt="Discord" src="https://img.shields.io/discord/1023275466934722650?label=DISCORD&logo=discord&logoColor=white">
   <h3>BradCraft depends on the following things below to be able to use all features...</h3>
