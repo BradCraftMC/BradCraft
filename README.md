@@ -117,7 +117,10 @@ That depends on a few things. For simple contributions, let 5tayer know about yo
 ### Q4: Can I be in the pack?
 **No.**
 
-### Q5: Will BradCraft ever become a mod?
+### Q5: Why did you remove the custom in-game music in v1.2?
+For a lot of us out there, Minecraft's music is special to us in many ways. Whenever you hear Sweden, you'll likely have nostalgia, memories, or remember fun occasions with your friends playing this block game. And in my (5tayer's) eyes, making it no longer possible to hear the vanilla music in-game isn't right. This is why in beta 1 for v1.2, I moved the custom music to the main menu, as there's less iconic songs on the menu screen than in-game. And to clarify further, **there will likely never be any more custom music in the main game itself.** I hope you'll understand where I'm coming from.
+
+### Q6: Will BradCraft ever become a mod?
 EDIT (12/11/2022): I, 5tayer, **have started working on an attempt to convert BradCraft into a mod.** It may fail, but if things turn out great, we could see the resource pack get retired.
 
 ~~Similar to Q2, we would love for this to happen! BradCraft as a mod would allow for the vanilla items/mobs to coexist in the game. Again, creating a mod is an *incredibly* tricky process. Therefore, for the time being we're gonna keep the project as a resource pack. However, if you are interested in helping us turn it into a mod, please DM 5tayer.~~
