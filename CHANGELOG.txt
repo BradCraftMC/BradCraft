@@ -15,7 +15,28 @@ Note: Partial means the static (non-hovered) buttons aren't in a dark theme.
 - Custom GUI support for Inventory Profiles Next (partial)
 
 ### Other
-- Added several Vanilla Tweaks features to enhance the gameplay (example: 3D doors/trapdoors/chains)
+- Added Vanilla Tweaks features
+	- Item Stitching Fix
+	- Bed Icons
+	- Wither Hearts
+	- Ping Color Indicator
+	- 3D Ladders
+	- 3D Rails
+	- 3D Sugar Cane
+	- 3D Iron Bars
+	- 3D Lily Pads
+	- 3D Doors
+	- 3D Trapdoors
+	- 3D Vines
+	- 3D Glow Lichen
+	- 3D Stonecutters
+	- 3D Chains
+	- 3D Redstone Wire
+	- Lower Shield
+	- Unobtrusive Rain
+	- Unobtrusive Snow
+	- Unobtrusive Particles
+	- Redstone Wire Fix
 
 # CHANGED
 - Updated pack.mcmeta
