@@ -1,6 +1,9 @@
 ![README header](https://user-images.githubusercontent.com/74135618/218292159-4237b831-4d5b-4482-b894-b000f439c927.png)
 <div align="center">
-  <h2>The official Minecraft resource pack of Bradley Richards</h2>
+  <h3>The official Minecraft resource pack of Bradley Richards</h3>
+  
+  also on [Modrinth](https://modrinth.com/resourcepack/bradcraft) *(CurseForge page soon)*
+  
   <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/B81X2Tkp?color=red&label=MC VERSIONS&logo=modrinth&logoColor=white">
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/5tayer/bradcraft?color=green&display_name=tag&label=LATEST%20STABLE%20VERSION">
   <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/5tayer/bradcraft?color=yellow&include_prereleases&label=LATEST%20PRE-RELEASE&sort=date">
