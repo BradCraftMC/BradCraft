@@ -1,4 +1,9 @@
 ### BradCraft Changelog
+Version 1.2.2.1
+Released February 18, 2023
+# FIXED
+- Fixed the Green Fall Dude texture to show their left arm and leg again
+
 Version 1.2.2
 Released February 10, 2023
 # ADDITIONS
