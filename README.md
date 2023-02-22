@@ -2,7 +2,7 @@
 <div align="center">
   <h3>The official Minecraft resource pack of Bradley Richards</h3>
   
-  also on [Modrinth](https://modrinth.com/resourcepack/bradcraft) *(CurseForge page soon)*
+  also available on [Modrinth](https://modrinth.com/resourcepack/bradcraft) and [CurseForge](https://www.curseforge.com/minecraft/texture-packs/bradcraft)
   
   <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/B81X2Tkp?color=red&label=MC VERSIONS&logo=modrinth&logoColor=white">
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/5tayer/bradcraft?color=green&display_name=tag&label=LATEST%20STABLE%20VERSION">
