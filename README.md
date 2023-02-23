@@ -1,26 +1,22 @@
 ![README header](https://user-images.githubusercontent.com/74135618/218292159-4237b831-4d5b-4482-b894-b000f439c927.png)
 <div align="center">
   <h3>The official Minecraft resource pack of Bradley Richards</h3>
+  <a href="https://modrinth.com/resourcepack/bradcraft">
+  <img alt="modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg">
+</a>
   
-  also on [Modrinth](https://modrinth.com/resourcepack/bradcraft) *(CurseForge page soon)*
+  <a href="https://www.curseforge.com/minecraft/texture-packs/bradcraft">
+  <img alt="curseforge" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg">
+</a>
   
-  <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/B81X2Tkp?color=red&label=MC VERSIONS&logo=modrinth&logoColor=white">
-  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/5tayer/bradcraft?color=green&display_name=tag&label=LATEST%20STABLE%20VERSION">
-  <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/5tayer/bradcraft?color=yellow&include_prereleases&label=LATEST%20PRE-RELEASE&sort=date">
-  <img alt="GitHub" src="https://img.shields.io/github/license/bradcraftmc/bradcraft?color=purple&label=LICENSE">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/5tayer/bradcraft?label=ISSUES&logo=github">
-  <img alt="Discord" src="https://img.shields.io/discord/1023275466934722650?label=DISCORD&logo=discord&logoColor=white">
-  <h3>BradCraft depends on the following things below to be able to use all features...</h3>
-  <img alt="cem" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cem_vector.svg">
-  <img alt="cit" height="64" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cit_vector.svg">
-  
-  [OptiFine](https://optifine.net/downloads) is the easiest method, and I recommend it for most.
-  
-  <h4>⚠️ This README is currently going under a revamping process. Excuse the messy look, it could be a few weeks ⚠️</h4>
-  
+  <a href="https://github.com/BradCraftMC/BradCraft">
+  <img alt="github" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg">
+</a>
   </div>
   
   ---
+
+  <img alt="cem" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cem_vector.svg"> <img alt="cit" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cit_vector.svg">
 
 BradCraft is the official Minecraft: Java Edition resource pack based around the YouTuber and streamer "[bradley richards](https://www.youtube.com/@bradleyrichards)". This resource pack features several references, gags, humor, and more with the main goal to spice up Minecraft, Brad style.
 
@@ -29,6 +25,8 @@ Click on the "Versions" tab on the top to find all of our releases. Alternativel
 
 ## Forge users
 Download [OptiFine](https://optifine.net/downloads).
+
+[Modrinth](https://modrinth.com/resourcepack/bradcraft)
 
 ## Fabric users
 Fabric is (unfortunately) a lot trickier, but you can get BradCraft working in 2 ways.
