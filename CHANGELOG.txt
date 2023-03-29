@@ -1,4 +1,12 @@
 ### BradCraft Changelog
+Version 1.2.3
+Released March 29, 2023
+# ADDED
+- Added support for 1.19.4
+
+# CHANGED
+- Updated the pack.mcmeta
+
 Version 1.2.2.1
 Released February 18, 2023
 # FIXED
